@@ -34,7 +34,8 @@ namespace ExamDepartment.Controllers
                 .Where(e => e.DepartmentId == departmentId)
                 .Include(e => e.Department)
                 .ToListAsync();
-
+            var departmentName = employeesInDepartment.FirstOrDefault()?.Department?.DepartmentName;
+            ViewBag.DepartmentName = departmentName;
             return View(employeesInDepartment);
         }
         // GET: Employees/Details/5

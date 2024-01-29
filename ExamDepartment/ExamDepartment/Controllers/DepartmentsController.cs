@@ -46,6 +46,7 @@ namespace ExamDepartment.Controllers
             }
 
             var department = await _context.Department
+                .Include(d => d.Employees)
                 .FirstOrDefaultAsync(m => m.DepartmentId == id);
             if (department == null)
             {
