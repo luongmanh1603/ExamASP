@@ -1,0 +1,7 @@
+C:\Users\manhl\source\repos\publishLuongManh\publishLuongManh\obj\Release\net7.0\PubTmp\Out\publishLuongManh.exe
+C:\Users\manhl\source\repos\publishLuongManh\publishLuongManh\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\manhl\source\repos\publishLuongManh\publishLuongManh\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\manhl\source\repos\publishLuongManh\publishLuongManh\obj\Release\net7.0\PubTmp\Out\publishLuongManh.dll
+C:\Users\manhl\source\repos\publishLuongManh\publishLuongManh\obj\Release\net7.0\PubTmp\Out\publishLuongManh.deps.json
+C:\Users\manhl\source\repos\publishLuongManh\publishLuongManh\obj\Release\net7.0\PubTmp\Out\publishLuongManh.runtimeconfig.json
+C:\Users\manhl\source\repos\publishLuongManh\publishLuongManh\obj\Release\net7.0\PubTmp\Out\publishLuongManh.pdb

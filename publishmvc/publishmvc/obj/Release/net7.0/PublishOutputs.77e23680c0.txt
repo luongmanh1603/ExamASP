@@ -1,0 +1,7 @@
+C:\Users\manhl\source\repos\publishmvc\publishmvc\obj\Release\net7.0\PubTmp\Out\publishmvc.exe
+C:\Users\manhl\source\repos\publishmvc\publishmvc\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\manhl\source\repos\publishmvc\publishmvc\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\manhl\source\repos\publishmvc\publishmvc\obj\Release\net7.0\PubTmp\Out\publishmvc.dll
+C:\Users\manhl\source\repos\publishmvc\publishmvc\obj\Release\net7.0\PubTmp\Out\publishmvc.deps.json
+C:\Users\manhl\source\repos\publishmvc\publishmvc\obj\Release\net7.0\PubTmp\Out\publishmvc.runtimeconfig.json
+C:\Users\manhl\source\repos\publishmvc\publishmvc\obj\Release\net7.0\PubTmp\Out\publishmvc.pdb
